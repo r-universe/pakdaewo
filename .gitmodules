@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ALassoSurvIC"]
 	path = ALassoSurvIC
 	url = https://github.com/cran/ALassoSurvIC
-	shallow = true
-	registered = true
 [submodule "ClinicalTrialSummary"]
 	path = ClinicalTrialSummary
 	url = https://github.com/cran/ClinicalTrialSummary
-	shallow = true
-	registered = true
 [submodule "YPInterimTesting"]
 	path = YPInterimTesting
 	url = https://github.com/cran/YPInterimTesting
-	shallow = true
-	registered = true
